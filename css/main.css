@@ -1,3 +1,13 @@
 h1 {
     color: purple;
 }
+
+button {
+    outline: none;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    background-color: darkslategray;
+    color: aqua;
+}
+
